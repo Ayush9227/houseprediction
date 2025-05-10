@@ -6,12 +6,12 @@ This project demonstrates a simple machine learning application: predicting hous
 
 house-price-predictor/
 ├── streamlit_house_price_predictor.py # Streamlit app using a pickled model
-├── house_price_model.pkl # Trained Linear Regression model
-├── House Price Prediction Dataset.csv # Original dataset used for training (optional)
-└── README.md # Project documentation
 
-arduino
-Copy code
+├── house_price_model.pkl # Trained Linear Regression model
+
+├── House Price Prediction Dataset.csv 
+
+
 
 ## 🚀 Demo
 
